@@ -1,5 +1,8 @@
 # Random Image Gallery
 
+![캡처](https://user-images.githubusercontent.com/105402299/174711043-2eeec868-fe40-4f5b-a1a3-4443203e99a5.JPG)
+https://hwangyunji.github.io/random-gallery/
+
 ## 소개
 - 랜덤하게 이미지가 변경되는 갤러리
 - 시간 표시 기능
