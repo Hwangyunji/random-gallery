@@ -1,5 +1,6 @@
 # Random Image Gallery
 
+https://hwangyunji.github.io/random-gallery/
 ## 소개
 - 랜덤하게 이미지가 변경되는 갤러리
 - 시간 표시 기능
